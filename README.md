@@ -32,7 +32,7 @@ python3 -m venv .venv --system-site-packages
 source .venv/bin/activate
 pip install pillow numpy
 
-Usage
+**Usage**
 Encrypt an image:  python3 image_crypt.py encrypt -i photo.png -o photo.enc.png -k "my-secret-key" -m both
 -i → input image path
 -o → output image path
