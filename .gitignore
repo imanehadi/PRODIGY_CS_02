@@ -1,0 +1,4 @@
+.venv/
+*.pyc
+__pycache__/
+*.png.enc  # optional if you don’t want encrypted images
